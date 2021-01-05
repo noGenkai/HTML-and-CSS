@@ -9,13 +9,13 @@ p {
 }
 
 #one {
-    color:purple;
+    color:#FFEE00;
     background: white;
 }
 
 #two {
-    color:orange;
-    background: grey;
+    color:lightcoral;
+    background: rgba(230, 100, 0, 0.5);
 }
 
 #three {
