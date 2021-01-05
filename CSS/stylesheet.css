@@ -12,13 +12,35 @@ p {
     color:#FFEE00;
     background: white;
 }
-
 #two {
     color:lightcoral;
     background: rgba(230, 100, 0, 0.5);
 }
-
 #three {
     color: pink;
+    background: green;
+}
+
+#RedTitle {
+    color:red;
+}
+.red {
+    color: white;
+    background: red;
+}
+
+#BlueTitle {
+    color: blue;
+}
+.blue {
+    color: white;
+    background: blue;
+}
+
+#GreenTitle {
+    color:green;
+}
+.green {
+    color: white;
     background: green;
 }
