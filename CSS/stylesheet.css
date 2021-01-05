@@ -2,10 +2,23 @@
     color: red;
      background: yellow;
 }
-/* Single Line Comment */
 
-/*
+p {
+    color:lightgrey;
+    background: black;
+}
 
-Multi-line Comment
+#one {
+    color:purple;
+    background: white;
+}
 
-*/
+#two {
+    color:orange;
+    background: grey;
+}
+
+#three {
+    color: pink;
+    background: green;
+}
