@@ -1,3 +1,4 @@
+/*
 .first {
     color: red;
      background-image: url(https://dummyimage.com/600x400/960096/0011ff.png&text=test); height: 1000px; background-repeat: no-repeat;
@@ -61,4 +62,11 @@ p {
 .green {
     color: white;
     background: green;
+}
+*/
+
+h1 {
+    height: 500px; /* inherit, percentages */
+    width: 50%; /* max-width, min-width */
+    background: darkmagenta;
 }
