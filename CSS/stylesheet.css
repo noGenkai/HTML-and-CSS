@@ -4,6 +4,7 @@
      background-color: darkcyan;
      background-position: center;
      background-attachment: fixed;
+     background-size: 100px 600px;
 }
 
 .RedTitle {
@@ -11,14 +12,18 @@
     url(https://dummyimage.com/600x400/960096/0011ff.png&text=test) no-repeat fixed right bottom;
 }
 
+h1 {
+    background-color: chocolate;
+    background-image: url(https://dummyimage.com/600x400/960096/0011ff.png&text=test);
+    background-size: 10%;
+    background-repeat: repeat;
+    height: 500px;
+}
+
 p {
     color:lightgrey;
     background-color: black;
 
-}
-
-h1 {
-    background-color: cyan;
 }
 
 #one {
