@@ -63,14 +63,14 @@ p {
     color: white;
     background: green;
 }
-*/
+
 
 h1 {
-    height: 500px; /* inherit, percentages */
-    width: 50%; /* max-width, min-width */
+    height: 500px; 
+    width: 50%; 
     background: darkmagenta;
 }
-/*
+
 #one {
     border-width: 10px;
     border-color: darkmagenta;
@@ -88,5 +88,8 @@ h1 {
     margin-top: 100px;
     margin-right: 200px;
     background: red;
-    border: 1px solid black
+    border: 1px solid black;
+    padding: 30px;
 }
+
+
