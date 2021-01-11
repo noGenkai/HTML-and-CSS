@@ -70,3 +70,16 @@ h1 {
     width: 50%; /* max-width, min-width */
     background: darkmagenta;
 }
+
+#one {
+    border-width: 10px;
+    border-color: darkmagenta;
+    border-style: double;
+}
+
+#two {
+    border: 10px magenta double;
+    height: 200px;
+    width: 200px;
+    border-radius: 1000px;
+}
