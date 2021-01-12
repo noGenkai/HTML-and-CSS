@@ -70,6 +70,7 @@ h1 {
     width: 200px;
     margin: 1000px;
     border-left: 100px;
+    text-align: center;
 }
 
 #three {
