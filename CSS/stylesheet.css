@@ -76,14 +76,15 @@ h1 {
     border-color: darkmagenta;
     border-style: double;
 }
-
+*/
 #two {
-    border: 10px magenta double;
+    border: 10px greenyellow double;
     height: 200px;
     width: 200px;
-    border-radius: 1000px;
+    margin: 1000px;
+    border-left: 1000px;
 }
-*/
+
 #three {
     background: red;
     border: 1px solid black;
