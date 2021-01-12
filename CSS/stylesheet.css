@@ -90,6 +90,9 @@ h1 {
     padding: 30px;
     outline: 100px solid blue;
     margin: 10px 50px 10px 50px;
+    border-bottom: 15px;
+    border-left: dotted fuchsia;
+    border-right: dashed fuchsia;
 }
 
 
