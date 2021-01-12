@@ -1,4 +1,4 @@
-/*
+
 .first {
     color: red;
      background-image: url(https://dummyimage.com/600x400/960096/0011ff.png&text=test); height: 1000px; background-repeat: no-repeat;
@@ -25,19 +25,6 @@ p {
     color:lightgrey;
     background-color: black;
 
-}
-
-#one {
-    color:#FFEE00;
-    background: white;
-}
-#two {
-    color:lightcoral;
-    background: rgba(230, 100, 0, 0.5);
-}
-#three {
-    color: pink;
-    background: green;
 }
 
 #RedTitle {
@@ -76,13 +63,13 @@ h1 {
     border-color: darkmagenta;
     border-style: double;
 }
-*/
+
 #two {
     border: 10px greenyellow double;
     height: 200px;
     width: 200px;
     margin: 1000px;
-    border-left: 1000px;
+    border-left: 100px;
 }
 
 #three {
