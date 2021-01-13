@@ -86,6 +86,11 @@ h1 {
 
 p:first-child {
     background: aqua;
+    font-family: fantasy;
+    font-style: italic;
+    font-weight: 200;
+    font-variant: small-caps;
+    font-size: 10px;
 }
 
 p:hover {
