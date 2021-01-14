@@ -78,3 +78,7 @@ ul:hover {
     text-decoration: double;
     cursor: crosshair;
 }
+
+.Lorem .highlight {
+    background:yellow;
+}
