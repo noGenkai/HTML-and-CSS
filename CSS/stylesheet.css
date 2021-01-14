@@ -73,6 +73,7 @@ h1 {
     margin: 1000px;
     border-left: 100px; 
     text-align: center;
+    overflow:visible;
 }
 
 #three {
