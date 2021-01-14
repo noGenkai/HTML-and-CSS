@@ -63,6 +63,7 @@ h1 {
     border-color: darkmagenta;
     border-style: double;
     z-index:1;
+    overflow: auto;
 }
 
 #two {
