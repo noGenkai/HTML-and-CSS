@@ -62,6 +62,7 @@ h1 {
     border-width: 10px;
     border-color: darkmagenta;
     border-style: double;
+    z-index:1;
 }
 
 #two {
