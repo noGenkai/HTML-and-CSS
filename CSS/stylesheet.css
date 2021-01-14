@@ -116,6 +116,13 @@ p:hover {
     background: green;
 }
 
+div {
+    border: firebrick;
+    border-radius: 10px;
+    font: small-caps;
+    font-size: 1em;
+}
+
 a:link {
     color:red;
 }
