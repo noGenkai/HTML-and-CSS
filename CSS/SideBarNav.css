@@ -6,7 +6,7 @@ aside {
     z-index: 1;
     background: black;
     color: white;
-    float: right;
+    text-align: center;
 }
 
 aside a {
