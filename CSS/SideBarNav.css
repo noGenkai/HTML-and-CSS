@@ -6,7 +6,7 @@ aside {
     z-index: 1;
     background: black;
     color: white;
-    float: left;
+    float: right;
 }
 
 aside a {
@@ -16,10 +16,24 @@ aside a {
     display: block;
     margin: 10px 10px;
     font-size: 1.5em;
-    float:right;
 }
 
 aside a:hover {
     font-size: 1.75em;
     float: inline-start;
+}
+
+p {
+    background:yellow;
+    text-align: center;
+    padding: 40px;
+    font-size: 2em;
+}
+
+.Lorem {
+    background: yellowgreen;
+    text-decoration: slategray;
+    text-align: right;
+    font-size: 1.5em;
+    padding: 10px;
 }
