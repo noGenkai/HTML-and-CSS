@@ -6,6 +6,7 @@ aside {
     z-index: 1;
     background: black;
     color: white;
+    float: left;
 }
 
 aside a {
@@ -15,8 +16,10 @@ aside a {
     display: block;
     margin: 10px 10px;
     font-size: 1.5em;
+    float:right;
 }
 
 aside a:hover {
     font-size: 1.75em;
+    float: inline-start;
 }
