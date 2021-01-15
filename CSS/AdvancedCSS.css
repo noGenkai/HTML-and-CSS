@@ -25,17 +25,17 @@
 .five {
     height:  400px;
     width: 100%;
-    background: radial-gradient(green,red)
+    background: radial-gradient(at 0% 20%, green,red)
 }
 
 .six {
     height:  400px;
     width: 100%;
-    background: radial-gradient(red, green, blue, purple)
+    background: radial-gradient(ellipse closest-side, red, green, blue, purple)
 }
 
 footer {
     height:  400px;
     width: 100%;
-    background: radial-gradient(to left, red 25%, lime 33%, blue 25%, yellow)
+    background: conic-gradient( red 25%, lime 33%, blue 25%, yellow)
 }
