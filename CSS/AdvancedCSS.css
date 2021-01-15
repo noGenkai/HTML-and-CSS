@@ -31,5 +31,5 @@
 .six {
     height:  400px;
     width: 100%;
-    background: linear-gradient(0deg,green,red)
+    background: linear-gradient(red, green, blue, purple)
 }
