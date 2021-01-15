@@ -82,3 +82,7 @@ ul:hover {
 .Lorem .highlight {
     background:yellow;
 }
+
+.home, .nonHighlight {
+    color: teal;
+}
