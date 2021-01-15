@@ -3,3 +3,33 @@
     width: 100%;
     background: linear-gradient(green,red)
 }
+
+.two {
+    height:  400px;
+    width: 100%;
+    background: linear-gradient(to right, green,red)
+}
+
+.three {
+    height:  400px;
+    width: 100%;
+    background: linear-gradient(to bottom right,green,red)
+}
+
+.four {
+    height:  400px;
+    width: 100%;
+    background: linear-gradient(37deg, green,red)
+}
+
+.five {
+    height:  400px;
+    width: 100%;
+    background: linear-gradient(0deg,green,red)
+}
+
+.six {
+    height:  400px;
+    width: 100%;
+    background: linear-gradient(0deg,green,red)
+}
