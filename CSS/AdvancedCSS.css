@@ -148,7 +148,7 @@ footer {
     overflow: hidden;
 }
 */
-
+/*
 @keyframes example{
     0% {width: 100px; left:100px}
     25% {width: 200px; left:10px}
@@ -169,4 +169,14 @@ footer {
     animation-delay: 0s;
     animation-iteration-count: infinite;
     animation-direction: alternate;
+}
+*/
+.container {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.container > div {
+    flex: 1;
+    border: 1px solid darkgray;
 }
