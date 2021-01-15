@@ -1,3 +1,4 @@
+/*
 .one {
     height:  400px;
     width: 100%;
@@ -38,4 +39,59 @@ footer {
     height:  400px;
     width: 100%;
     background: conic-gradient( red 25%, lime 33%, blue 25%, yellow)
+}
+*/
+
+.one {
+    transform: translate(100px, 200px);
+    background: red;
+}
+
+.two {
+    transform: rotate(45deg);
+    background: green;
+    text-align: center;
+    width: 700px;
+}
+
+.three {
+    transform: scale(0.5, 4);
+    background: orange;
+    text-align: center;
+    width: 200px;
+    height: 100px;
+    overflow: hidden;
+}
+
+.four {
+    transform: scaleX(2);
+    transform: scaleY(0.7);
+    background: pink;
+    text-align: center;
+    width: 200px;
+    height: 100px;
+    overflow: hidden;
+}
+
+.five {
+    transform: skewY(25deg);
+    background: purple;
+    text-align: center;
+    width: 200px;
+    height: 100px;
+    overflow: hidden;
+}
+
+.six {
+    transform: translate(100px, -200px);
+    background: yellow;
+}
+
+footer {
+    transform: matrix(0.5, 2, 0, 1, 0, 0 );
+    background: grey;
+    text-align: center;
+    width: 200px;
+    height: 100px;
+    overflow: hidden;
 }
