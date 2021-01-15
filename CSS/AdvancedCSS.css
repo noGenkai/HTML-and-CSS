@@ -33,3 +33,9 @@
     width: 100%;
     background: linear-gradient(red, green, blue, purple)
 }
+
+footer {
+    height:  400px;
+    width: 100%;
+    background: linear-gradient(to left, red 25%, lime 33%, blue 25%, yellow)
+}
