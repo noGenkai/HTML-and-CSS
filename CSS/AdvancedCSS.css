@@ -19,13 +19,13 @@
 .four {
     height:  400px;
     width: 100%;
-    background: linear-gradient(37deg, green,red)
+    background: repeating-linear-gradient(to left, yellow 25px,  green,red)
 }
 
 .five {
     height:  400px;
     width: 100%;
-    background: radial-gradient(at 0% 20%, green,red)
+    background: repeating-radial-gradient(at 0% 20%, green,red)
 }
 
 .six {
