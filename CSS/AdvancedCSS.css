@@ -41,7 +41,7 @@ footer {
     background: conic-gradient( red 25%, lime 33%, blue 25%, yellow)
 }
 */
-
+/*
 .one {
     transform: translate(100px, 200px);
     background: red;
@@ -89,6 +89,52 @@ footer {
 
 footer {
     transform: matrix(0.5, 2, 0, 1, 0, 0 );
+    background: grey;
+    text-align: center;
+    width: 200px;
+    height: 100px;
+    overflow: hidden;
+}
+*/
+.one {
+    background: red;
+}
+
+.two {
+    background: green;
+    text-align: center;
+    width: 100px;
+}
+
+.three {
+    background: orange;
+    text-align: center;
+    width: 200px;
+    height: 100px;
+    overflow: hidden;
+}
+
+.four {
+    background: pink;
+    text-align: center;
+    width: 200px;
+    height: 100px;
+    overflow: hidden;
+}
+
+.five {
+    background: purple;
+    text-align: center;
+    width: 200px;
+    height: 100px;
+    overflow: hidden;
+}
+
+.six {
+    background: yellow;
+}
+
+footer {
     background: grey;
     text-align: center;
     width: 200px;
