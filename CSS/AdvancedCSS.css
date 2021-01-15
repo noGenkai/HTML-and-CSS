@@ -97,16 +97,19 @@ footer {
 }
 */
 .one {
+    transform: rotateX(180deg);
     background: red;
 }
 
 .two {
+    transform: rotateY(180deg);
     background: green;
     text-align: center;
-    width: 100px;
+    width: 200px;
 }
 
 .three {
+    transform: rotateZ(180deg);
     background: orange;
     text-align: center;
     width: 200px;
@@ -115,6 +118,7 @@ footer {
 }
 
 .four {
+    transform: scale3d(1,2,3);
     background: pink;
     text-align: center;
     width: 200px;
@@ -123,6 +127,7 @@ footer {
 }
 
 .five {
+    transform: scaleZ(3);
     background: purple;
     text-align: center;
     width: 200px;
