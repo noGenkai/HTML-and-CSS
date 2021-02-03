@@ -1,9 +1,9 @@
-#content > div {
+.content > div {
     display: flex;
     flex-wrap: wrap;
 }
 
-#q1 {
+.q1 {
     border: 1px darkblue dashed;
     width: 50%;
     height: 100px;
