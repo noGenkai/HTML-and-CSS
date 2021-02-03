@@ -22,5 +22,8 @@ do {
   } else {
     	guess += "Got it!"
     	console.log(guess);
-        break;
-  } 
+        break
+  } console.log(guess);
+}	while(min <= max);
+
+console.log('It took me ' + count + ' tries') 
