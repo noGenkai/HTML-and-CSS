@@ -5,12 +5,18 @@
 
 #q1 {
     border: 1px darkblue dashed;
+    width: 50%;
+    height: 100px;
 }
 
 #q2 {
     border: 1px darkred solid;
+    width: 50%;
+    height: 100px;
 }
 
 #q3 {
     border: 1px darkgoldenrod dotted;
+    width: 50%;
+    height: 100px;
 }
