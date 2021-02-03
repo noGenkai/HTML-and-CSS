@@ -39,3 +39,24 @@
     border-bottom-style: solid;
     border-left-style: groove;
 }
+#q4 {
+    width: 50%;
+    height: 100px;
+    border-right-width: 1600px;
+    border-bottom-width: 100px;
+    border-left-style: groove;
+}
+#q5 {
+    width: 50%;
+    height: 100px;
+    border-right-width: 1600px;
+    border-bottom-width: 100px;
+}
+#q6 {
+    width: 50%;
+    height: 100px;
+    border-right-width: 1600px;
+    border-bottom-width: 100px;
+    border-bottom-style: solid;
+    border-left-style: groove;
+}
