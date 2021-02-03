@@ -1,14 +1,16 @@
 #content > div {
     display: flex;
+    flex-wrap: wrap;
 }
 
 #q1 {
-    
+
 }
 
 #q2 {
 
 }
+
 #q3 {
 
 }
