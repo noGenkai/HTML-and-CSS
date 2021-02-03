@@ -1,7 +1,7 @@
 #content > p {
     display: flex;
     flex-wrap: wrap;
-    justify-content: left;
+    justify-content: space-between;
 }
 
 #q1 {
