@@ -23,6 +23,7 @@
     border-left-style: dashed;
     border-right-width: 500px;
     border-left-width: 500px;
+    order: 1;
     
 }
 
@@ -31,6 +32,7 @@
     width: 50%;
     height: 100px;
     border-left-width: 1600px;
+    order: 3;
 }
 
 #q3 {
@@ -41,6 +43,7 @@
     border-bottom-width: 100px;
     border-bottom-style: solid;
     border-left-style: dashed;
+    order: 5;
 }
 #q4 {
     text-emphasis: bold;
@@ -48,7 +51,8 @@
     height: 100px;
     border-right-width: 1600px;
     border-bottom-width: 100px;
-    border-left-style: dashed;
+    border-left-style:s dashed;
+    order: 2;
 }
 #q5 {
     text-emphasis: bold;
@@ -56,6 +60,7 @@
     height: 100px;
     border-right-width: 1600px;
     border-bottom-width: 100px;
+    order: 4;
 }
 #q6 {
     text-emphasis: bold;
@@ -65,4 +70,5 @@
     border-bottom-width: 100px;
     border-bottom-style: solid;
     border-left-style: dashed;
+    order: 6;
 }
