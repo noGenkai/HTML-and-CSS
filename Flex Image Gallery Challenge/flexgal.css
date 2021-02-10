@@ -10,6 +10,17 @@
 }
 
 .col {
-    width: 200px;
-    height: 100px;
+    flex: 33.3%;
+    padding: 10px;
+    
+}
+
+img{
+    width: 100%;
+}
+
+@media (max-width: 680px) {
+    .col{
+        flex: 50%;
+    }
 }
