@@ -27,6 +27,13 @@ img{
 .header {
     text-decoration: black;
     text-align: center;
-    text-transform: uppercase;
-    
+    text-transform: capitalize;
+    font-size: 50px;
+}
+
+.footer {
+    text-decoration: black;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 15px;
 }
