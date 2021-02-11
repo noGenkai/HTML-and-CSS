@@ -10,7 +10,7 @@
 }
 
 .col {
-    flex: 33.3%;
+    flex: 50%;
     padding: 5px;
     border: black, 100px;
 }
@@ -21,7 +21,7 @@ img{
 
 @media (max-width: 680px) {
     .col{
-        flex: 50%;
+        flex: 100%;
     }
 }
 
