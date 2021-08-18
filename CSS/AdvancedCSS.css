@@ -173,42 +173,45 @@ footer {
 */
 .container {
     display: grid;
-    grid-template-columns: auto auto auto auto;
     background: red;
-}
-
-.three {
-    grid-area: 1 / 2 / 3 / 4;
-}
-
-/* .one {
-    grid-row: 1 / 4;
-}
-
-.three {
-    grid-row: 1 / span 2;
+    grid-template-areas: 
+    'header header header header header header'
+    'theMenu main main main main main'
+    'mainLeft mainLeft mainLeft mainRight mainRight mainRight'
+    'footer footer footer footer footer footer';
 }
 
 .one {
-    grid-column: 1 / 4;
+    grid-area: header;
+}
+
+.two {
+    grid-area: theMenu;
+}
+
+.three {
+    grid-area: main;
 }
 
 .four {
-    grid-column: 2 / 5;
+    grid-area: mainLeft;
 }
 
 .five {
-    grid-column: 1 / span 2;
+    grid-area: mainRight;
 }
 
 .six {
-    grid-column: 3 / span 2;
-} */
+    grid-area: footer;
+}
 
 .container > div {
     border: 1px solid red;
     text-align: center;
     padding: 10px;
     background: white;
-    overflow: hidden;
+}
+
+header, footer {
+    display: none;
 }
