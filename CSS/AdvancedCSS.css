@@ -176,6 +176,21 @@ footer {
     grid-template-columns: auto auto auto auto auto auto;
 }
 
+.one {
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+
+.two {
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
+
+.three {
+    grid-column-start: 5;
+    grid-row-end: 7;
+}
+
 .container > div {
     border: 1px solid red;
     padding: 10px;
